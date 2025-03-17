@@ -1,10 +1,17 @@
+import Liberary from "./components/Liberary";
 import NavBar from "./components/NavBar";
 
 const App = () => {
   return (
-    <div>
-      <NavBar />
-    </div>
+    <>
+      <div>
+        <NavBar />
+      </div>
+      <div>
+        <Liberary />
+      </div>
+      <p>app page</p>
+    </>
   );
 };
 

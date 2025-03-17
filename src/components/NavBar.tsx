@@ -48,7 +48,7 @@ const NavBar = () => {
             <a href="/">Warehouse</a>
           </li>
           <li>
-            <a href="/">Library</a>
+            <a href="/components/Liberary">Library</a>
           </li>
           <li>
             <a href="/">Video Gallery</a>
