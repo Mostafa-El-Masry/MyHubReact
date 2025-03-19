@@ -177,7 +177,7 @@ const Liberary = () => {
         >
           {/* // Dynamically create image elements and append them to the imgGallery */}
           {Assets.map((Asset) => (
-            <div className="flex max-w-lg rounded-lg">
+            <div key={Asset} className="flex max-w-lg rounded-lg">
               <a target="_blank" href={Asset}>
                 <img src={Asset} className="rounded-lg box-border" />
               </a>

@@ -1,6 +1,7 @@
 import Liberary from "./components/Liberary";
 import NavBar from "./components/NavBar";
 import PornVideo from "./components/PornVideo";
+import Js from "./components/js";
 
 const App = () => {
   return (
@@ -8,7 +9,9 @@ const App = () => {
       <div>
         <NavBar />
       </div>
-      <p>app page</p>
+      <div>
+        <Js />
+      </div>
       <div>
         <PornVideo />
       </div>
