@@ -1,10 +1,4 @@
-import { useState } from "react";
-
 const Liberary = () => {
-  // const Name = "Mostafa";
-
-  // Reference to the gallery container
-  const [GalleryDev, setIGalleryDev] = useState(false);
   // Array of Assets
   let Assets = [
     `/Assets/jpg (1).jpg`,
@@ -174,33 +168,21 @@ const Liberary = () => {
     `/Assets/gif (7).gif`,
   ];
 
-  // Dynamically create image elements and append them to the imgGallery
-  const createAssest = () => {
-    Assets.forEach((Assestsrc) => {
-      const GalleryDev = document.createElement("div");
-      const link = document.createElement("a");
-      const img = document.createElement("img");
-      const ImgGallery = document.querySelector(".imggallery");
-
-      link.append(img);
-      GalleryDev.append(link);
-      // ImgGallery.append(GalleryDev);
-      link.setAttribute("target", "_blank");
-      // ImgGallery.classList.add("mt-5", "justify-around");
-
-      img.classList.add("rounded-lg", "box-border");
-      GalleryDev.classList.add("flex", "max-w-lg", "rounded-lg");
-      link.setAttribute("href", Assestsrc);
-      img.setAttribute("src", Assestsrc);
-    });
-  };
-
-  createAssest();
   return (
     <div>
       <div className="h-full">
-        <main className="imggallery m-auto py-2" id="gallery">
-          {GalleryDev ? <span>span</span> : null}
+        <main
+          className="imggallery mt-5 justify-around m-auto py-2"
+          id="gallery"
+        >
+          {/* // Dynamically create image elements and append them to the imgGallery */}
+          {Assets.map((Asset) => (
+            <div className="flex max-w-lg rounded-lg">
+              <a target="_blank" href={Asset}>
+                <img src={Asset} className="rounded-lg box-border" />
+              </a>
+            </div>
+          ))}
         </main>
       </div>
     </div>
