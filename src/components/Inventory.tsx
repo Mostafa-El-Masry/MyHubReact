@@ -5,17 +5,45 @@ const ProductsQTY = [50, 9, 100];
 const Inventory = () => {
   return (
     <>
-      <div className="bg-info flex">
-        {ProductsSN.map((productsn) => (
-          <div className="flex bg-danger">{productsn}</div>
-        ))}
-        {Products.map((Product) => (
-          <div className="flex bg-dark">{Product}</div>
-        ))}
-        {ProductsQTY.map((ProductsQTY) => (
-          <div className="flex">{ProductsQTY}</div>
-        ))}
-      </div>
+      <table className="table">
+        <thead>
+          <tr>
+            <th scope="col">#</th>
+            <th scope="col">Product Name</th>
+            <th scope="col">Quantity</th>
+          </tr>
+        </thead>
+        <tbody>
+          {ProductsQTY.map((ProductsQTY) => (
+            <tr>
+              <td>
+                {ProductsSN.map((ProductSN) => (
+                  <tr>
+                    <td>{ProductSN}</td>
+                  </tr>
+                ))}
+              </td>
+              <td>
+                {Products.map((Product) => (
+                  <tr>
+                    <td></td>
+                    <td>{Product}</td>
+                  </tr>
+                ))}
+              </td>
+              <td>
+                <td>
+                  {ProductsSN.map((ProductSN) => (
+                    <tr>
+                      <td>{ProductSN}</td>
+                    </tr>
+                  ))}
+                </td>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
     </>
   );
 };
