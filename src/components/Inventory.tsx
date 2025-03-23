@@ -10,7 +10,7 @@ const Inventory = () => {
     <>
       <table className="table">
         <thead>
-          <tr>
+          <tr className="bg-blue-500">
             <th scope="col">#</th>
             <th scope="col">Product Name</th>
             <th scope="col">Quantity</th>

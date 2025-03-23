@@ -1,19 +1,14 @@
 const PornVideo = () => {
   const videoPaths = [
     `2024-12-23 08_37_19.mp4`,
-    `5875359-remy-interracial-gif-5.mp4`,
     `Abella Danger - Big Butt Teen Ass Fucked.mp4`,
-    `Abella Danger, Creeping Tom.mp4`,
     `Abigaiil Morris Reality Kings .mp4`,
     `Abigail Mac, A Domestic Dicking.mp4`,
     `Adria Rae - Daddy’s Debt.mp4`,
     `Aidra Fox, Unexpected Dinner Guest.mp4`,
     `Alanah Rae - Ten Dollar Whore.mp4`,
-    `Aletta Ocean - Lost In ZZ.mp4`,
     `Alexis Fawx - Let Mommy Help You.mp4`,
-    `Alison Tyer, Get The Picture_.mp4`,
     `Alli Rae, Brandi Love, Kimmy Granger - The Wild Card.mp4`,
-    `Alyce Anderson - Stepdads Side Of The Bed .mp4`,
     `Angela White - I Waited For You - EPORNER.mp4`,
     `Angela White - The Lucky Guy - EPORNER.mp4`,
     `Annabel Redd - Annabel Redd On Video.mp4`,
@@ -21,7 +16,6 @@ const PornVideo = () => {
     `Anya Olsen - Don’t do this to me stepdad.mp4`,
     `Arab Couple In Office.mp4`,
     `Audrey Bitoni - Boston Cream.mp4`,
-    `Audrey Bitoni - El Mamador Con Insomnio.mp4`,
     `Audrey Bitoni - Horny wife fucked by her husband’s friend.mp4`,
     `Audrey Bitoni - I Locked The Door.mp4`,
     `Ava Addams - Unfaithful Wife Punished.mp4`,
@@ -32,9 +26,6 @@ const PornVideo = () => {
     `Blair Williams - Blair’s Private Shower.mp4`,
     `Blair Williams - I Can Do Anal Though.mp4`,
     `Britney Amber - The Boss’s Butt.mp4`,
-    `Britney Amber - The Cure for Chronic Masturbation.mp4`,
-    `Brooklyn Chase - No Words Necessary.mp4`,
-    `Brooklyn Chase Shawna Lenee, Xmas Sweater Party.mp4`,
     `Bunny Colby - The Cuckold And His Wife.mp4`,
     `Carmela Clutch - Take Over The Car Accident.mp4`,
     `Carmen De Luz - Spying on my maid.mp4`,
@@ -43,9 +34,6 @@ const PornVideo = () => {
     `Chanel Preston - Her First Big Sale 2.mp4`,
     `Chanel Preston - Stepmoms Special Frosting.mp4`,
     `Chanel Preston, Kristina Rose, Phoenix Marie - New Years Eve Party.mp4`,
-    `Cherie Deville, Dakota Skye, Quality Time.mp4`,
-    `Close-up sex ~ Domestic affair soaked in the rain and drowning in lust with her father-in-law ~ Rei Kimura.mp4`,
-    `Coco Nailed (1080).mp4`,
     `Cum In Me, Not On My Couch.mp4`,
     `Cytherea, Blind Experiment.mp4`,
     `Daisy Diva Gets Pool Tabled By Tyrone Love.mp4`,
@@ -88,7 +76,6 @@ const PornVideo = () => {
     `EPORNER.COM - [hxygRVEQOdX] King louie 2 (720).mp4`,
     `EPORNER.COM - [inoiEL3T4oJ] Girlsway Obsessed With Pussy (1080).mp4`,
     `EPORNER.COM - [IObzWkr71ri] Angela White X Mandingo BBC Upscaled 4k (2160).mp4`,
-    `EPORNER.COM - [iw2xp06Bsc8] LIKE WE’RE STILL TOGETHER (1080).mp4`,
     `EPORNER.COM - [j5ClrO7otUf] Angela White Triple Penetrated (1080).mp4`,
     `EPORNER.COM - [J81mH72paDe] Darkside Intense Anal Sex with BBC - Angela white (720).mp4`,
     `EPORNER.COM - [j8BO04lY5nH]     arab egypt (240).mp4`,
@@ -103,7 +90,6 @@ const PornVideo = () => {
     `EPORNER.COM - [NaStBpwGLRK] Interracial Double Penetration (1080).mp4`,
     `EPORNER.COM - [nngWX65gSK2] She wants his black cock! (720).mp4`,
     `EPORNER.COM - [oU1gP1NBAj4] King Louie 9 (720).mp4`,
-    `EPORNER.COM - [p5XKADleMn3] My Younger Brother’s Wife My Younger Brother’s Wife Who Can’t Refuse Sex (Misuzu Takeuchi) (720).mp4`,
     `EPORNER.COM - [p8lzFHfXxTL] Angela White hot and sexy milf (720).mp4`,
     `EPORNER.COM - [PAABI4fvcYF] Passion Sex (1080).mp4`,
     `EPORNER.COM - [Q8RKuCndq9t] Busty Angela White Gets Fucked by Step-Son, S01EP06 (720).mp4`,
@@ -122,18 +108,15 @@ const PornVideo = () => {
     `EPORNER.COM - [xHH8aegurn0] JJ Angela White (2160).mp4`,
     `EPORNER.COM - [XrTyemz7T2H] Angel-White-MILF-BBC-Hookup (720).mp4`,
     `EPORNER.COM - [yLtubyspaRu] hot caretaker that takes ups a coach after her duty (1080).mp4`,
-    `EPORNER.COM - [YwGhn0Cb7P5] Angela White - Up Inside Angela’s Tightest Hole 2 (720).mp4`,
     `EPORNER.COM - [zrJmYbCk1ZA] Busty Japanese Secretary (1080).mp4`,
     `EPORNER.COM - [zRyuTe97tq4] Angela White - Altar of Aphrodite 3 (720).mp4`,
     `EPORNER.COM - [ZYQyKErDc2r] Angela White-  angela white lips meet for the first time (720).mp4`,
-    `Esperanza Gomez - I Take Out My Cock In Stepmom’s Car.mp4`,
     `Eva Notty - His Friend’s Mom.mp4`,
     `Eva Notty - Mom’s In Hot Water.mp4`,
     `Eva Notty - Pizza Party- Part 1.mp4`,
     `Eva Notty Milf Squad Vegas_ The Stakeout.mp4`,
     `Eva Notty, Gia Paige, Prom Pussy.mp4`,
     `Eva Notty, There Goes The Neighborhood Scoundrel.mp4`,
-    `FolderList.txt`,
     `Gabbie Carter - Desirable Brunette Gets Licked And Penetrated.mp4`,
     `Gabbie Carter - pit-stop for an iced coffee.mp4`,
     `Gabbie Carter - Sexy Blonde Fucked By The Big Black Cock.mp4`,
@@ -143,7 +126,6 @@ const PornVideo = () => {
     `Gia Paige - I’m Not Leaving!.mp4`,
     `Holly Hendrix, Mandy Muse - My Girlfriend’s Phat Ass Roommate.mp4`,
     `Isabella De Santos - Hot Anal Latina.mp4`,
-    `It’s Too Cute For.mp4`,
     `Jasmine James - Jasmine’s At The Laundromat.mp4`,
     `Jayden Jaymes - Big Twits in Uniform- He Comes to America!.mp4`,
     `Jayden Jaymes - I Won’t Tell The Boss.mp4`,
@@ -177,11 +159,7 @@ const PornVideo = () => {
         <div className="gallery" id="videoGallery">
           {videoPaths.map((Video) => (
             <div key={Video} className="video-wrapper">
-              <video
-                src={`./Porn/${Video}`}
-                controls
-                // preload="metadata"
-              ></video>
+              <video src={`./Porn/${Video}`} controls></video>
               <p className="text-white">{Video}</p>
             </div>
           ))}
