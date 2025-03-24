@@ -1,11 +1,8 @@
-import { useState } from "react";
-
 const ProductsSN = [1, 2, 3];
 const Products = ["Sink Cover", "Hair Net", "Kaftan"];
 const ProductsQTY = [50, 9, 100];
 
 const Inventory = () => {
-  const [selected, setSelected] = useState(0);
   return (
     <>
       <table className="table">
@@ -20,13 +17,9 @@ const Inventory = () => {
           {ProductsQTY.map(() => (
             <tr>
               <td>
-                {ProductsSN.map((ProductSN, index) => (
+                {ProductsSN.map((ProductSN) => (
                   <tr>
-                    <td
-                      key={ProductSN}
-                      onClick={(e) => setSelected(index)}
-                      className={selected === index ? "active" : "active"}
-                    >
+                    <td key={ProductSN} className="active">
                       {ProductSN}
                     </td>
                   </tr>

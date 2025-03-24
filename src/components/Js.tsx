@@ -4,7 +4,7 @@ const Js = () => {
   return (
     <>
       <main className="container m-auto">
-        <section className="w-4 h-4 bg-red-300 active">
+        <section>
           <div className="flex flex-col p-4 m-4">
             <p>Factory functions</p>
           </div>
